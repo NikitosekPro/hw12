@@ -9,16 +9,16 @@
 }
 
 .container {
-    width: 1170px;
-    padding: 30px;
-    margin: 0px auto;
-    outline: red solid;
+    width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+    outline: 1px solid red;
 
 }
 
 
 .about {
-    margin-top: 186px;
+    margin-top: 94px;
     margin-bottom: 280px;
 }
 
@@ -38,13 +38,6 @@
     margin-top: 94px;
 }
 
-
-body {
-    font-size: 14px ;
-    font-weight: 400 ;
-    line-height: calc(24 / 14) ;
-    font-family: "Roboto" sans-serif;
-    }
 body {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
